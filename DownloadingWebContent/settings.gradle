@@ -1,0 +1,2 @@
+rootProject.name='Downloading Web Content'
+include ':app'

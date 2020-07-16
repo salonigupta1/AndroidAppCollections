@@ -22,6 +22,8 @@
  - XML
  - Shared Preferences
  - SQL
+ - Web View
+ and many others.
  
  
  Drop a ⭐ on the Github Repository.
